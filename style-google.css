@@ -10,6 +10,15 @@ html {
     
 }
 
+.footer-buttons {
+    border: none;
+    background-color: transparent;
+    padding: 5px;
+    margin: 5px;
+    color: gray;
+    
+}
+
 .nav-buttons:hover {
     text-decoration: underline;
 }

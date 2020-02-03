@@ -10,6 +10,23 @@ html {
     
 }
 
+.sign-in {
+    border: none;
+    background-color: #4C8BF5;
+    padding: 8px;
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.hamburger-icon {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  }
+
 .footer-buttons {
     border: none;
     background-color: transparent;
